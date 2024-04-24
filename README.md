@@ -23,7 +23,6 @@ Add This
 ## Screenshots
 ![Group 847](https://github.com/P4ScriptsFivem/pappu-multicharacter/assets/120780563/9d7d768b-799f-4dfe-9567-62077479db63)
 
-
 ## Installation
 ### Manual
 - Download the script and put it in the `[qb]` directory.
@@ -43,6 +42,8 @@ ensure qb-weathersync
 - [qb-clothing](https://github.com/qbcore-framework/qb-clothing) - For the character creation and saving outfits.
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - For adjusting the weather while player is creating a character.
 
-
+## Credits & Original Repository
+- [qb-multicharacter](https://github.com/qbcore-framework/qb-multicharacter)
+  
 ## License
 [GPL-3.0 license](LICENSE)
